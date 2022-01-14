@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Unicity](https://unicity.com) as intern
+- 🌱 I’m currently learning blockchain technology
+- 📫 How to reach me: mail : worknarair6@gmail.com
+- 🔹 You can reach My personal web site [Ryoneme2.github](https://Ryoneme2.github.io)
 <!--
 **Ryoneme2/Ryoneme2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
