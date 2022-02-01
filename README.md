@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Unicity](https://unicity.com) as intern
+- 🔭 I’m currently working as Freelance
 - 🌱 I’m currently learning blockchain technology
 - 📫 How to reach me: mail : worknarair6@gmail.com
 - 🔹 You can reach My personal web site [Ryoneme2.github](https://Ryoneme2.github.io)
