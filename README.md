@@ -6,6 +6,13 @@
 - 🔹 You can reach My personal web site [Ryoneme2.github](https://Ryoneme2.github.io)
 - 👨🏻‍💻 Currently. I studying at ChaingMai University
 
+***
+![](https://github-readme-streak-stats.herokuapp.com/?user=ryoneme2&theme=buefy&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryoneme2&theme=buefy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+***
+
 Web Development Full-Stack
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
