@@ -8,7 +8,7 @@
 
 
 ***
-![](./devcard.svg)
+![](./devcard.svg | width=100)
 
 ***
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ryoneme2&theme=buefy&hide_border=true)
