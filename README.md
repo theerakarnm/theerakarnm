@@ -6,6 +6,10 @@
 - 🔹 You can reach My personal web site [Ryoneme2.github](https://Ryoneme2.github.io)
 - 👨🏻‍💻 Currently. I studying at ChaingMai University
 
+
+***
+![](./devcard.svg)
+
 ***
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ryoneme2&theme=buefy&hide_border=true)
 
