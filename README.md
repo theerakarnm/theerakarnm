@@ -7,8 +7,6 @@
 - 👨🏻‍💻 Currently. I studying at ChaingMai University
 
 
-***
-![](./devcard.svg)
 
 ***
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ryoneme2&theme=buefy&hide_border=true)
@@ -62,5 +60,9 @@ Deployment
 ![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryoneme2&show_icons=true&theme=radical)
+
+***
+![](./devcard.svg)
+
 <!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoneme2) -->
 
