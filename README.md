@@ -64,5 +64,5 @@ Deployment
 ***
 ![](./devcard.svg)
 
-<!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoneme2) -->
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoneme2)
 
