@@ -59,7 +59,7 @@ Deployment
 ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryoneme2&show_icons=true&theme=radical) ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoneme2)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryoneme2&show_icons=true&theme=radical)
 
 ***
 ![](./devcard.svg)
