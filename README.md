@@ -63,6 +63,7 @@ Deployment
 
 ***
 ![](./devcard.svg)
+<img src="./devcard.svg"  width="300" height="300">
 
 
 
