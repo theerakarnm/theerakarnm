@@ -62,7 +62,6 @@ Deployment
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryoneme2&show_icons=true&theme=radical)
 
 ***
-![](./devcard.svg)
 <img src="./devcard.svg"  width="300" height="300">
 
 
