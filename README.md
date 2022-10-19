@@ -57,6 +57,7 @@ Deployment
 ![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryoneme2&show_icons=true&theme=radical) -->
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 <div align=center><img src="./devcard.svg"  width="500" height="500"></div>
 
 ***
