@@ -9,7 +9,9 @@
 
 
 ***
-<div align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=ryoneme2&theme=buefy&hide_border=true)</div>
+<div align="center">
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=ryoneme2&theme=buefy&hide_border=true)
+</div>
 ***
 
 Web Development Full-Stack
