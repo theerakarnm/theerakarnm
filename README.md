@@ -9,9 +9,7 @@
 
 
 ***
-<div style="margin-right: auto; margin-left:auto;">
   ![](https://github-readme-streak-stats.herokuapp.com/?user=ryoneme2&theme=buefy&hide_border=true)
-</div>
 ***
 
 Web Development Full-Stack
