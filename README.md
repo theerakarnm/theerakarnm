@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Freelance
+- 🔭 I’m currently working as a Freelance
 - 🌱 I’m currently learning blockchain technology
-- 📫 How to reach me: mail : worknarair6@gmail.com
-- 🔹 You can reach My personal web site [Ryoneme2.github](https://Ryoneme2.github.io)
-- 👨🏻‍💻 Currently. I studying at ChaingMai University
+- 📫 How to reach me: mail: theerakarnm@eukron.com / contact@theerakarnm.dev
+- 🔹 You can reach My website [THEERAKARN](https://theerakarnm.dev)
+- 👨🏻‍💻 Currently. I studying at Chiang Mai University
 
 
 
